@@ -2,7 +2,7 @@
 
 ### Este projeto foi gerado (originalmente) pelo Angluar CLI na versão 14.1.2, mas foi atualizado para a versão 16.0.0, por Carlos A Santos.
 
-<!-- ![Projeto Angular-BuzzFeed-Quizz](https://github.com/carlosItDevelop/angular-blog-desafio/blob/main/src/assets/capa.png "Projeto base - DIO | Digital Innovation One") -->
+![Projeto Angular-BuzzFeed-Quizz](https://github.com/carlosItDevelop/angular-buzzfeed-quizz-cas/blob/main/src/assets/imgs/capa.png "Projeto base - DIO | Digital Innovation One")
 
 > Uma das alterações necessárias para a autalização do projeto é crias a pasta environment e seus respectivos arquivos de ambiente para Dev e Prod, que deixou de ser gerado automaticamente na versão 14.x do Angular, mas que a partir do Angular 15 criou-se a possibilidade de ser gerado pelo Angular CLI.
 
