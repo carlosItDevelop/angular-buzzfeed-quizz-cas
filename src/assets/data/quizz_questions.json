@@ -1,55 +1,111 @@
 {
-  "title":"Você seria um heroi ou vilão ?",
-  "questions":[
+  "title": "SERÁ QUE VOCÊ E SEU(SUA) PARCEIRO(A) SÃO COMPATÍVEIS ?",
+  "questions": [
     {
-      "id":1,
-      "question": "Qual super poder você escolheria ?",
-      "options":[
-        {"id": 1, "name":"Raios-Lasers", "alias":"A"},
-        {"id": 2, "name":"Voar", "alias":"B"},
-        {"id": 3, "name":"Explodir coisas", "alias":"A"},
-        {"id": 4, "name":"Curar feridas", "alias":"B"},
-        {"id": 5, "name":"Soltar fogo pelas mãos", "alias":"A"}
+      "id": 1,
+      "question": "Com relação a filmes ?",
+      "options": [
+        {
+          "id": 1,
+          "name": "Eu gosto de filmes Românticos e ele(a) de Terror",
+          "alias": "A"
+        },
+        {
+          "id": 2,
+          "name": "Gostamos dos mesmos gêneros de filmes",
+          "alias": "B"
+        },
+        {
+          "id": 3,
+          "name": "Ele(a) não suporta ver filmes comigo",
+          "alias": "A"
+        },
+        {
+          "id": 4,
+          "name": "Sempre entramos em acordo, sobre filmes, sem problemas",
+          "alias": "B"
+        }
       ]
     },
     {
-      "id":2,
-      "question": "Quem você salvaria primeiro ?",
-      "options":[
-        {"id": 1, "name":"Crianças", "alias":"A"},
-        {"id": 2, "name":"Idosos", "alias":"A"},
-        {"id": 3, "name":"Não saberia escolher", "alias":"B"}
+      "id": 2,
+      "question": "Dançar ou Dormir ?",
+      "options": [
+        { "id": 1, "name": "Eu durmo e ele(a) Dança", "alias": "A" },
+        { "id": 2, "name": "Dormimos e dançamos juntos", "alias": "B" }
       ]
     },
     {
-      "id":3,
-      "question": "Qual a sua maior preocupação ao enfretar outro super ser ?",
-      "options":[
-        {"id": 1, "name":"Não destruir prédios", "alias":"B"},
-        {"id": 2, "name":"Socar a cara do inimigo", "alias":"A"},
-        {"id": 3, "name":"Não sujar meu traje", "alias":"A"},
-        {"id": 4, "name":"Não deixar ninguém se ferir", "alias":"B"}
+      "id": 3,
+      "question": "Festas ou Assistir Tv a Dois ?",
+      "options": [
+        {
+          "id": 1,
+          "name": "Adoramos festas e assistimos a tudo na TV, juntinhos 👌",
+          "alias": "B"
+        },
+        {
+          "id": 2,
+          "name": "Ele(a) sempre prefere festas... Eu prefiro assistir TV",
+          "alias": "A"
+        },
+        {
+          "id": 3,
+          "name": "Ele(a) não suporta festas e nem TV; isso às vezes, me irrita 😒",
+          "alias": "A"
+        },
+        {
+          "id": 4,
+          "name": "Sempre entramos em consenso, de Boa!",
+          "alias": "B"
+        }
       ]
     },
     {
-      "id":4,
-      "question": "Qual o seu maior foco ?",
-      "options":[
-        {"id": 1, "name":"Ficar rico com poderes", "alias":"A"},
-        {"id": 2, "name":"Salvar a cidade", "alias":"B"}
+      "id": 4,
+      "question": "Massa ou Carnes ?",
+      "options": [
+        { "id": 1, "name": "Prefiro Carnes e Ele(a) Massas", "alias": "A" },
+        { "id": 2, "name": "Prefiro Massas e Ele(a) Carnes", "alias": "A" },
+        { "id": 3, "name": "Adoramos Massas", "alias": "B" },
+        { "id": 4, "name": "Adoramos Carnes", "alias": "B" },
+        {
+          "id": 5,
+          "name": "Comemos de tudo juntos, ou comemos separados sem problemas",
+          "alias": "B"
+        },
+        {
+          "id": 6,
+          "name": "Ele(a) sempre implica com o que como, mas não abre mão de seus gostos",
+          "alias": "A"
+        }
       ]
     },
     {
-      "id":5,
-      "question": "Qual o seu apelido de super ser ?",
-      "options":[
-        {"id": 1, "name":"O Terrivel", "alias":"A"},
-        {"id": 2, "name":"Amigo da vizinhança", "alias":"B"}
+      "id": 5,
+      "question": "No Sexo ?",
+      "options": [
+        { "id": 1, "name": "Fazemos pouco sexo... 😒🤦‍♂️", "alias": "A" },
+        {
+          "id": 2,
+          "name": "Fazemos de tudo um pouco... ou 'Um muito... 😂💋🔥'",
+          "alias": "B"
+        },
+        {
+          "id": 3,
+          "name": "Prefiro por cima e ele(a) sempre quer por baixo 😥",
+          "alias": "A"
+        },
+        {
+          "id": 4,
+          "name": "Qualquer posição, qualquer hora, qualquer lugar... 😂💋🔥",
+          "alias": "B"
+        }
       ]
     }
   ],
-  "results":{
-    "A": "Você muito provavelmente seria um super vilão!",
-    "B": "Você muito provavelmente seria um super Herói!"
+  "results": {
+    "A": "TALVEZ SEJA A HORA DE 'TROCAR' DE PARCEIRO(A) 😒🤦‍♂️",
+    "B": "PARABÉNS! O SEXO DE VOCÊS É 'HOT AND GOOD' 🔥💋👏"
   }
 }
